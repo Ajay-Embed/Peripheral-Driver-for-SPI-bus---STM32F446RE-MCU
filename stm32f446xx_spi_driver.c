@@ -4,7 +4,7 @@
 /* stm32f446xx_spi_driver.c
  *
  *  Created on: 18-Sep-2019
- *      Author: blueh
+ *      Author: AJAY
  */
 //API definitions of the spi peripheral
 
